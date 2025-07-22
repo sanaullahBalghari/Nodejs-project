@@ -16,7 +16,7 @@
     "url": "https://github.com/sanaullahBalghari/Nodejs-project/issues"
   },
   "homepage": "https://github.com/sanaullahBalghari/Nodejs-project#readme",
-  "description": "",
+  "description": "all about the nodejs complete backend project",
   "devDependencies": {
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2"
@@ -32,5 +32,6 @@
     "mongoose": "^8.16.2",
     "mongoose-aggregate-paginate-v2": "^1.1.4",
     "multer": "^2.0.1"
-  }
+  },
+  "keywords": []
 }
